@@ -1,2 +1,3 @@
-# cra-redux-saga-skeleton
-base skeleton for redux saga and cra
+# React_Virtualized
+base skeleton for virtualization in mobile view
+
